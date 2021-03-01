@@ -1,0 +1,11 @@
+.bg-color{
+	background-color: #fff
+}
+img{
+	width: auto;
+	margin-left: 120px;
+}
+.table-hover > tbody > tr:hover{
+	background-color: rgb(196, 187, 187);
+	color:#fff;
+}
